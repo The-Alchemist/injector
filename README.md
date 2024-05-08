@@ -221,4 +221,4 @@ Footnote
 
 This framework is similar to snake-guice, but aims for simplification.
 
-&copy; Copyright 2010-2013 to Alec Thomas, under the BSD license
+&copy; Copyright 2010-2024 to Alec Thomas, under the BSD license
